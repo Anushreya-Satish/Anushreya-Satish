@@ -1,9 +1,8 @@
-- I’m Anushreya Satish 👋🏻
-- I’m interested in learning Guitar, Casio and Coding 🎸🎹💻
-- I’m currently learning French because I want to go to Paris 🗼
+- I’m a coder, a pianist and a guitarist 🎸🎹💻
+- I’m learning French because I want to go to Paris 🗼
 - I’m ambitous to be a Software Engineer 👩🏻‍💻
 - I'm a big fan of Miraculous: Tales of Ladybug & Cat Noir 🐾🐞
-- I know Javascript and C# 
+- I know Javascript, C# and a little bit of Python.
 - I have worked on p5 editor, code.org, VS Code, Unity Editor, Scratch.
 - Please visit my website - https://anushreyasatish.whjr.site/
 - Follow me on GitHub - https://github.com/Anushreya-Satish/
