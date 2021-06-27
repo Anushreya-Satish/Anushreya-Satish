@@ -1,4 +1,4 @@
- - Hey, I am Anushreya Satish also known as Eiffel Tower.
+ - I am Anushreya Satish also known as Eiffel Tower.
  - I’m a coder, a pianist and a guitarist 🎸🎹💻
  - I know English, Hindi and French.
  - I’m ambitous to be a Software Engineer 👩🏻‍💻
