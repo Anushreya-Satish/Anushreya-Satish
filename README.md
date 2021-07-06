@@ -1,8 +1,1 @@
- - I am Anushreya Satish also known as Eiffel Tower.
- - I’m a coder, a pianist and a guitarist 🎸🎹💻
- - I’m ambitous to be a Software Engineer 👩🏻‍💻
- - My life is miraculous because there is Miraculous: Tales of Ladybug & Cat Noir 🐾🐞
- - I know Javascript, C# and a little bit of Python.
- - I have worked on p5 editor, code.org, VS Code, Unity Editor, Scratch.
- - See my game - https://simmer.io/@Anushreya/the-quest-of-miracle-treasure
- - Bug Out!!
+
