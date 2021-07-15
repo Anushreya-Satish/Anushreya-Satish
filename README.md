@@ -9,4 +9,3 @@
 - Au Revoir!
                                                                                                                  
 ![Adrien Agreste-Cat Noir](https://user-images.githubusercontent.com/75848533/125045939-276ea180-e0bb-11eb-8dd5-0bbb17387161.png)
-![Miraculous Friends](https://user-images.githubusercontent.com/75848533/125768468-b756db82-101f-4ce3-9e9a-b39c590f2a64.jpg)
