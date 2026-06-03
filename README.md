@@ -24,8 +24,8 @@
 <h2>Currently Atmospheric 🎧</h2>
 <table border="0" cellpadding="12" cellspacing="0" width="100%" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d;">
   <tr>
-    <td width="100" valign="middle" style="padding-right: 0;">
-      <a href="https://open.spotify.com/track/0Y4is0wVwTb76EGegv9498" target="_blank">
+    <td width="100" valign="middle" style="padding-right: 0; width: 100px;">
+      <a href="https://open.spotify.com/track/1M99g7YvS96X97f3GfH56g" target="_blank">
         <img src="https://raw.githubusercontent.com/Anushreya-Satish/Anushreya-Satish/main/singularity.png" width="100" height="100" style="border-radius: 6px; border: 1px solid #21262d; display: block; object-fit: cover;" alt="Singularity Art - Click to Play" />
       </a>
     </td>  
@@ -34,16 +34,16 @@
       <p style="margin: 2px 0 14px 0; padding: 0; color: #8b949e; font-size: 14px; font-family: sans-serif;">V</p>      
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-          <td width="35" style="color: #8b949e; font-size: 11px; font-family: monospace; line-height: 1;">1:11</td>          
-          <td valign="middle" style="padding: 0 10px;">
-            <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#21262d" style="height: 4px; border-radius: 2px;">
+          <td width="35" style="width: 35px; color: #8b949e; font-size: 11px; font-family: monospace; line-height: 1;">1:11</td>          
+          <td valign="middle" style="padding: 0 12px;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#21262d" style="width: 100%; height: 4px; border-radius: 2px;">
               <tr>
                 <td width="36%" bgcolor="#1ed760" style="height: 4px; border-radius: 2px 0 0 2px;"></td>
                 <td width="64%"></td>
               </tr>
             </table>
           </td>          
-          <td width="35" align="right" style="color: #8b949e; font-size: 11px; font-family: monospace; line-height: 1;">3:16</td>
+          <td width="35" style="width: 35px;" align="right" style="color: #8b949e; font-size: 11px; font-family: monospace; line-height: 1;">3:16</td>
         </tr>
       </table>
     </td>
