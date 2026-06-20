@@ -6,7 +6,7 @@
       <br>
       <ul>
         <li>🌪️ <strong>The Storm within:</strong> My coding process is pure chaos. My mind is constantly flooded with shifting ideas and creative inspirations, but once I sink into the code, I build structured systems inside the storm.</li>
-        <li>💻 <strong>The 118 Repos Mission:</strong> Clueless but curious about everything I'm going to learn next. Currently auditing, refactoring, and restructuring my vast digital archive.</li>
+        <li>💻 <strong>The 115 Repos Mission:</strong> Clueless but curious about everything I'm going to learn next. Currently auditing, refactoring, and restructuring my vast digital archive.</li>
         <li>🎹 🎸 <strong>Solitary Resonance:</strong> I play the Casio and guitar strictly in solitude, exploring chords and melodies tailored only to my personal taste in music.</li>
         <li>📖 <strong>Curiosity:</strong> Finding words, technical depth, and hidden stories scattered across the digital ink of the internet.</li>
         <li>🌱 <strong>Nature:</strong> Wish to have a better world.</li>
