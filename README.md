@@ -67,6 +67,17 @@
 
 <hr style="border-color: #30363d;" />
 
+<h2>GitHub Stats 📊</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushreya-Satish&show_icons=true&bg_color=0b0e14&title_color=f0f6fc&text_color=8b949e&icon_color=1db954&border_color=21262d&hide_border=false" height="165" alt="Anushreya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushreya-Satish&background=0b0e14&stroke=21262d&sidebars=21262d&fire=1db954&currStreakNum=f0f6fc&sideNums=f0f6fc&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreya-Satish&layout=compact&bg_color=0b0e14&title_color=f0f6fc&text_color=8b949e&border_color=21262d" height="165" alt="Most Used Languages" />
+</p>
+
+<hr style="border-color: #30363d;" />
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" valign="middle">
